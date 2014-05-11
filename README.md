@@ -6,6 +6,7 @@ Javascript game basis integrating Craftyjs and Rpg Maker assets
 Why
 =================
 
+After developing several games around of Craftyjs and Rpg Maker assets (and other stuff like angularjs and a server side engine), I ll share some code here to help anyone interested in.
 This project is a tutorial for everyone eager to start an HTML5/Javascript browser game.
 It is based on Craftyjs and some assets as Rpg Maker format.
 
