@@ -1,7 +1,7 @@
 craftyjs-rpgmaker
 =================
 
-Javascript game basis integrating Craftyjs and Rpg Maker assets
+Javascript game basis integrating Craftyjs (https://github.com/craftyjs/Crafty) and Rpg Maker assets
 
 Why
 =================
