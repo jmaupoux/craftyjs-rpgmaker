@@ -1,0 +1,12 @@
+#main{
+    margin:auto;
+    width:800px;
+    height:600px;
+    border:1px dotted black;
+}
+
+#cr-stage{
+    width:600px;
+    height: 400px;
+    margin: auto;
+}
